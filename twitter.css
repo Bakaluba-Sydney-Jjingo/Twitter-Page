@@ -13,13 +13,10 @@
   }  
 
   /*twitter page container starts here*/
-  #twitter-container{
-     /* margin-left: 70px; */
-  }
-  
+ 
   #twitter-container h1{
     font-family:  Georgia, 'Times New Roman', Times, serif;
-  
+  margin-left: 70px;
   }
 
  hr{
