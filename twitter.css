@@ -177,6 +177,7 @@ li a:hover:not(.active) {
 
 .active {
     color: #ffff00;
+    font-weight: bold;
 }
 
 /*Bottom Navigation Bar Ends here--------------*/
