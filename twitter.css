@@ -163,6 +163,8 @@ li {
 li a {
   display: block;
   color: #fff;
+  font-size: 14px;
+  font-family: arial;
   text-align: center;
   padding: 7px 11px;
   text-decoration: none;
